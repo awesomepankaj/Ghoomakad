@@ -106,7 +106,7 @@
 		}
 
 		.container {
-			width: 960px;
+			width: 1100px;
 		}
 
 	}
@@ -1318,7 +1318,7 @@
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 18pt;
-		line-height: 1.75em;
+		line-height: 1.55em;
 		font-weight: 300;
 		letter-spacing: 1px;
 		color: #3a3939;
@@ -1356,7 +1356,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
 		text-transform: uppercase;
-		line-height: 1.75em;
+		line-height: 1.25em;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1366,7 +1366,7 @@
 
 	h2 {
 		font-size: 1.25em;
-		letter-spacing: 8px;
+		letter-spacing: 3px;
 	}
 
 	h3 {
@@ -1826,7 +1826,7 @@
 
 			.box.style1.right .inner {
 				margin-left: 50%;
-				padding-left: 3em;
+				padding-left: 2em;
 			}
 
 			.box.style1.left .image {
@@ -1839,7 +1839,7 @@
 
 			.box.style1.left .inner {
 				margin-right: 50%;
-				padding-right: 3em;
+				padding-right: 2em;
 			}
 
 		.box.style2 {
